@@ -1,4 +1,5 @@
 # Mass Telerik Checker
+![IMG_20201113_180221](https://user-images.githubusercontent.com/65480013/99066116-06f95080-25db-11eb-9821-556c2dead869.jpg)
 
 # Author
 ```
